@@ -11,6 +11,8 @@ _A website for a bank where you can sign up to open an account. It as a porfolio
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- Element.getBoundingClientRect()
+- Intersection Observer API
 
 ## Implementation
 
