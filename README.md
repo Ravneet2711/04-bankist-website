@@ -4,7 +4,7 @@ _A website for a bank where you can sign up to open an account. It as a porfolio
 
 ## Project URL
 
-[Checkout this portfolio](https://the-best-bank.netlify.app/)
+[Checkout this portfolio](https://best-bankist-app.netlify.app)
 
 ## Tech
 
